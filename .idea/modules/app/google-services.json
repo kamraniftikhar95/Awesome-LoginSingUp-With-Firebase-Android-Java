@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1015222070775",
+    "firebase_url": "https://loginsingupfirebase-d4fcf.firebaseio.com",
+    "project_id": "loginsingupfirebase-d4fcf",
+    "storage_bucket": "loginsingupfirebase-d4fcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015222070775:android:790b981514e2e8025012f2",
+        "android_client_info": {
+          "package_name": "fire.loginsingupfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015222070775-p46mr463tnl1pjredim6r4nk098kuh49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fire.loginsingupfirebase",
+            "certificate_hash": "d2da3da2f2605f39931fbfbdb1b2201cd9dfb683"
+          }
+        },
+        {
+          "client_id": "1015222070775-oooh1fva3iu5msj6lvnar2okb0t3dbbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf8Z0usYTE_TiM0q4khPqmqbmKYY3wHI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015222070775-oooh1fva3iu5msj6lvnar2okb0t3dbbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Awesome LoginSignUp</string>
+    <string name="welcomemsg">Welcome to App!</string>
+    <string name="login">Log me in</string>
+    <string name="loginmsg">Log In</string>
+    <string name="emailid">Email </string>
+    <string name="userpassword">Password</string>
+    <string name="registeruser">Sign Up!</string>
+    <string name="userpassoword">Password</string>
+    <string name="userfullName">Full Name</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="location">Location</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+    <string name="age">Age</string>
+    <string name="logout">log out</string>
+    <string name="spinnersetup">Salary(monthly)</string>
+    <string name="recurringbills">Recurring Bills</string>
+    <string name="recurring_bills_add">Add bills </string>
+</resources>
